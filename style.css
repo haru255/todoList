@@ -1,0 +1,23 @@
+html {
+    font-size: 62.5%;
+}
+ul {
+    list-style: none;
+}
+.deleteButton {
+    border-radius: 50%;
+    border: solid 0.1rem;
+    border-color: black;
+    color: red;
+    background-color: white;
+}
+.todoText {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 2.4rem;
+    border: solid 0.1rem;
+    border-radius: 0.5rem;
+    border-color: rgb(120, 143, 119);
+    color: black;
+    background-color: rgb(213, 245, 212);
+}
